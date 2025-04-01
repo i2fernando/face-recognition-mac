@@ -1,0 +1,13 @@
+# Ignorar arquivos temporários e de sistema
+__pycache__/
+*.pyc
+*.log
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar ambientes virtuais
+.venv/
+
+# Ignorar arquivos grandes ou de modelo
+shape_predictor_68_face_landmarks.dat
